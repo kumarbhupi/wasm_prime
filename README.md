@@ -2,7 +2,7 @@
 
 Simple method to find prime numbers
 
-### Pre-requisits
+### Prerequisites
 1. Deno installed
 2. Rust installed
 3. `wasm-pack` package installed to build rust code to wasm.
